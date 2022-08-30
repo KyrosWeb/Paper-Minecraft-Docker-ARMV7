@@ -1,5 +1,6 @@
 # Paper-Minecraft-Docker-ARMv7
 A simple Linux Docker Image for Paper Minecraft Sever.
+This Docker Image is supported by 32bit OS 
 
 ## Command
 First of all you have to build the Dockerfile
