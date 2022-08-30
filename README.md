@@ -30,3 +30,5 @@ Environment variables are options that are specified in the format `-e <NAME>="<
 
 
 **PLEASE NOTE:** This is an unofficial project. I did not create PaperMC. [This is the official PaperMC website.](https://papermc.io/)
+
+**THANKS TO MY MENTOR AND LONG TIME FRIEND** https://github.com/LorenzoRogai
