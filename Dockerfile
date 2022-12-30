@@ -1,7 +1,7 @@
 FROM eclipse-temurin:17-jre-focal
 LABEL maintainer="me@nicdev.it"
 ENV MINECRAFT_EULA=true
-ENV MINECRAFT_VERSION=1.19.2
+ENV MINECRAFT_VERSION=1.19.3
 RUN apt-get update && apt-get install -y wget jq sudo nano && rm -rf /var/lib/apt/lists/*
 WORKDIR /data
 VOLUME /data
